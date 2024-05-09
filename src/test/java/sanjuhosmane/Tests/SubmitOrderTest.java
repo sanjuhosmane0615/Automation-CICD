@@ -26,6 +26,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+//am adding new coommens for demo purpose
 public class SubmitOrderTest extends BaseTest {
 
 	String productName = "IPHONE 13 PRO";
